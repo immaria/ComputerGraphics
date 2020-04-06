@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2606db03-4517-424d-bad9-b17986041044" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Screenshot from 2020-02-23 15-54-00.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +22,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PATH_TO_FX$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Андриенко/KPI-master/comp_graphics/Lab4" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -63,10 +63,26 @@
       <screen x="0" y="27" width="1849" height="1053" />
     </state>
     <state x="656" y="334" width="525" height="436" key="#com.intellij.ide.util.TreeClassChooserDialog/0.27.1849.1053@0.27.1849.1053" timestamp="1585059321710" />
-    <state x="546" y="296" width="735" height="513" key="FileChooserDialogImpl" timestamp="1585059367156">
+    <state x="546" y="296" width="735" height="513" key="FileChooserDialogImpl" timestamp="1585072891540">
       <screen x="0" y="27" width="1849" height="1053" />
     </state>
-    <state x="546" y="296" width="735" height="513" key="FileChooserDialogImpl/0.27.1849.1053@0.27.1849.1053" timestamp="1585059367156" />
+    <state x="546" y="296" width="735" height="513" key="FileChooserDialogImpl/0.27.1849.1053@0.27.1849.1053" timestamp="1585072891540" />
+    <state width="1803" height="270" key="GridCell.Tab.0.bottom" timestamp="1585062145719">
+      <screen x="0" y="27" width="1849" height="1053" />
+    </state>
+    <state width="1803" height="270" key="GridCell.Tab.0.bottom/0.27.1849.1053@0.27.1849.1053" timestamp="1585062145719" />
+    <state width="1803" height="270" key="GridCell.Tab.0.center" timestamp="1585062145718">
+      <screen x="0" y="27" width="1849" height="1053" />
+    </state>
+    <state width="1803" height="270" key="GridCell.Tab.0.center/0.27.1849.1053@0.27.1849.1053" timestamp="1585062145718" />
+    <state width="1803" height="270" key="GridCell.Tab.0.left" timestamp="1585062145718">
+      <screen x="0" y="27" width="1849" height="1053" />
+    </state>
+    <state width="1803" height="270" key="GridCell.Tab.0.left/0.27.1849.1053@0.27.1849.1053" timestamp="1585062145718" />
+    <state width="1803" height="270" key="GridCell.Tab.0.right" timestamp="1585062145718">
+      <screen x="0" y="27" width="1849" height="1053" />
+    </state>
+    <state width="1803" height="270" key="GridCell.Tab.0.right/0.27.1849.1053@0.27.1849.1053" timestamp="1585062145718" />
     <state x="407" y="130" width="1024" height="845" key="SettingsEditor" timestamp="1585059374556">
       <screen x="0" y="27" width="1849" height="1053" />
     </state>
